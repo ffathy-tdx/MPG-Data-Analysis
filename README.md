@@ -39,4 +39,4 @@ The code provided in this repository performs the following tasks:
 1. Clone the repository:
 
 ```shell
-git clone <repository-url>
+git clone <https://github.com/ffathy-tdx/MPG-Data-Analysis>
